@@ -1,1 +1,1 @@
-Responsive Article using Tailwind CSS.
+Responsive Article page using Tailwind CSS with some Animation effects.
